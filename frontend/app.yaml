@@ -1,5 +1,5 @@
 runtime: nodejs20
-service: notes-frontend-ayrisa  
+service: frontend-193  
 instance_class: F1
 
 handlers:
